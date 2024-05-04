@@ -1,0 +1,4 @@
+.parentContaienr {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,25 @@
+.itemContainer {
+  max-width: 400px;
+  padding: 30px 37px;
+  border-radius: 15px;
+  margin-bottom: 45px;
+  border: 1px solid #646cff;
+  transition: all 0.3s ease;
+}
+
+.itemContainer:hover {
+  box-shadow: 1px 1px 30px #646cff;
+}
+
+.itemImage {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.itemContent {
+  text-align: center;
+}
+
+.foodTitle {
+  margin-bottom: 25px;
+}
